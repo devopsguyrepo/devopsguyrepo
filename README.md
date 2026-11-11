@@ -1,7 +1,7 @@
 # Hi, I'm Richard Biscazzi 👋
 
 **Cloud & DevOps Engineer** · AWS · Terraform · Docker · CI/CD · Linux automation
-📍 Ontario, Canada · [Optional: work authorization, e.g. "Authorized to work in Canada"]
+📍 Ontario, Canada
 
 I build and automate cloud infrastructure: reproducible environments with Terraform, containerized workloads, and CI/CD pipelines that ship safely. I recently completed Cloud Operations & Development training, I'm working toward AWS certification, and I document what I build (including what breaks) in public.
 
