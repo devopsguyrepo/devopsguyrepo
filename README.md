@@ -26,6 +26,8 @@ I build and automate cloud infrastructure: reproducible environments with Terraf
 
 | Project | What it demonstrates | Stack |
 |---|---|---|
+| [**FLASK-ECS-RDS-CICD**](https://github.com/devopsguyrepo/flask-ecs-rds-cicd.git) | CI/CD pipeline with image scanning and keyless AWS deploys via OIDC | GitHub Actions · ECR · ECS |
+
 
 
 ## 🔨 In Progress
