@@ -26,15 +26,14 @@ I build and automate cloud infrastructure: reproducible environments with Terraf
 
 | Project | What it demonstrates | Stack |
 |---|---|---|
-| [**FLASK-ECS-RDS-CICD**](https://github.com/devopsguyrepo/flask-ecs-rds-cicd.git) | CI/CD pipeline with image scanning and keyless AWS deploys via OIDC | GitHub Actions · ECR · ECS |
-| [**HomeLab**](https://github.com/devopsguyrepo/homelab.git) | A Proxmox-based homelab I use to practice Linux administration, containers, CI/CD, monitoring, and secure networking | Linux · Network · Docker · Gitea · Jenkins |
+| [**Capstone-CICD-ECR-ECS-RDS-CloudWatch-Terraform**](https://github.com/devopsguyrepo/capstone-ci-cd-rds-app) | College Capstone project with CI/CD pipeline with image scanning and keyless AWS deploys via OIDC | GitHub Actions · ECR · ECS · RDS · CloudWatch |
+| [**HomeLab**](https://github.com/devopsguyrepo/homelab.git) | A Proxmox-based homelab I use to practice Linux administration, containers, CI/CD, monitoring, and secure networking | Linux · Network · Docker · Jenkins · Prometheus · Grafana |
 
 
 ## 🔨 In Progress
 
-- 🎓 AWS Certified Solutions Architect – Associate: target **January 2027**
-- 🏗️ Project Homelab
-- 📝 What's mext
+- 🎓 AWS Certified Solutions Architect – Associate: target **February 2027**
+
 
 ## 🤝 Work with me
 
